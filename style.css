@@ -194,13 +194,13 @@ body{
   transform: translate(-50%, -50%) scale(1);
 }
 .result-box .won-text{
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 500;
   display: flex;
   justify-content: center;
 }
 .result-box .won-text p{
-  font-weight: 600;
+  font-weight: 500;
   margin: 0 5px;
 }
 .result-box .btn{
