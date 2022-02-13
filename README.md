@@ -1,6 +1,10 @@
 <h1 align="center">Squid Games Tic Tac Toe</h1>
 
-<img src="squidgames.PNG" alt="IMAGE OF THE GAME"> 
+<p float="left">
+  <img src="sq2.png" width="100" />
+  <img src="sq1.png" width="100" /> 
+
+</p>
 <h2>A simple Tic-Tac-Toe game made on the Theme - Squid Games </h2>
 <p>The game is a practice code from CodingNepals tutorials. I used a lots of JavaSript making this and this learned a lot.</p>
 
