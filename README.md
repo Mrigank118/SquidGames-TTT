@@ -1,8 +1,8 @@
 <h1 align="center">Squid Games Tic Tac Toe</h1>
 
-<p float="left">
-  <img src="sq2.PNG" width="100" />
-  <img src="sq1.PNG" width="100" /> 
+<p float="center">
+  <img src="sq2.PNG" width="400" />
+  <img src="sq1.PNG" width="400" /> 
 
 </p>
 <h2>A simple Tic-Tac-Toe game made on the Theme - Squid Games </h2>
